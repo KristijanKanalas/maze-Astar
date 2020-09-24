@@ -1,7 +1,7 @@
 # Maze + A* path finding
 
 Maze generated with DFS and a solution found with A* + heuristic path finding
-### Made as a project for the AI course at Subotica Tech - College of Applied Sciences
+### Made as a project for the AI course at Subotica Tech - College of Applied Sciences - 2018.
 
 # Usage
 
